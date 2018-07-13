@@ -1,204 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ac37c7e-f85e-4802-a0e8-d10befd16a7e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_mixin.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_responsive.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_theme_color.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/breadcumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/core-img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/core-img/logo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/GreetingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/classy-nav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/custom-icon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/classy.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/classy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/classy.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/classy.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/bg-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/breadcumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/gallery6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/mgm-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/pc-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/tea1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/tea2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/tea3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/bg-img/tea4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/lb-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/lb-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/lb-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/blog-img/lb-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-4 .png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/clients-img/partner-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/core-img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/core-img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/core-img/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/spo-img/spo-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/spo-img/spo-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/spo-img/spo-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/spo-img/spo-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/img/stu-img/stu-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/active.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/bootstrap/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/bootstrap/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/google-map/map-active.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/jquery/jquery-2.2.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/js/plugins/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/scss/_mixin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/scss/_responsive.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/scss/_theme_color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/greeting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/classy-nav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/classy-nav.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/custom-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/custom-icon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/classy.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/classy.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/classy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/classy.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/classy.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/classy.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/classy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/classy.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/bg-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/bg-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/breadcumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/gallery6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/gallery6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/mgm-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/mgm-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/pc-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/pc-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/tea1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/tea1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/tea2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/tea2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/tea3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/tea3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/bg-img/tea4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bg-img/tea4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/add.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/add.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/lb-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/lb-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/lb-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/lb-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/lb-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/lb-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog-img/lb-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/blog-img/lb-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-4 .png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-4 .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/clients-img/partner-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/clients-img/partner-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/core-img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/core-img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/core-img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/core-img/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/spo-img/spo-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/spo-img/spo-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/spo-img/spo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/spo-img/spo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/spo-img/spo-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/spo-img/spo-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/spo-img/spo-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/spo-img/spo-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/stu-img/stu-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/stu-img/stu-9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/active.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/active.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/google-map/map-active.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/google-map/map-active.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery/jquery-2.2.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/jquery/jquery-2.2.4.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/plugins/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/plugins/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scss/_mixin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scss/_responsive.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_theme_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scss/_theme_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sponsors.html" afterDir="false" />
-    </list>
+    <list default="true" id="3ac37c7e-f85e-4802-a0e8-d10befd16a7e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -228,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -240,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GreetingController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GreetingController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/GreetingController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -725,7 +528,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="667" />
     <option name="y" value="60" />
     <option name="width" value="1685" />
@@ -889,15 +692,16 @@
       <workItem from="1531227605294" duration="1940000" />
       <workItem from="1531389261420" duration="3086000" />
       <workItem from="1531407678582" duration="682000" />
-      <workItem from="1531480407921" duration="2176000" />
+      <workItem from="1531480407921" duration="2428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9246000" />
+    <option name="totallyTimeSpent" value="9498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="534" y="48" width="1348" height="756" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32847896" />
@@ -905,6 +709,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32614556" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
@@ -919,8 +724,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5700809" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.783871" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6549865" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32867134" />
@@ -928,7 +733,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3273906" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1056,16 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1122,6 +916,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

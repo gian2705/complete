@@ -15,12 +15,18 @@ public class GreetingController {
     }
 
     @GetMapping("/")
-    public String home(){
-        return "home";
+    public String index(){
+        return "index";
     }
 
     @GetMapping("/about")
     public String about(){
         return "about-us";
     }
+
+    @GetMapping("/course")
+    public String course(){
+        return "course";
+    }
+
 }
